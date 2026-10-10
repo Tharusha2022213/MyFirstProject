@@ -15,6 +15,7 @@
         <li>පොත් කියවීම</li>
         <li>වෙබ් අඩවි නිර්මාණය කිරීම</li>
         <li>චිත්‍රපට බැලීම</li>
+        <li>Eating butter and suger</li>
     </ul>
 
     <a href="https://www.google.com" target="_blank">Google වෙත යන්න</a>
