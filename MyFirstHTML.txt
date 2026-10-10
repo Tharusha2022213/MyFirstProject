@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Website</title>
+</head>
+<body>
+
+    <h1>ආයුබෝවන්!</h1>
+    <p>මෙය මගේ පළමු වෙබ් පිටුවයි. HTML ඉගෙන ගැනීම ඉතා පහසුයි.</p>
+
+    <h2>මගේ විනෝදාංශ:</h2>
+    <ul>
+        <li>පොත් කියවීම</li>
+        <li>වෙබ් අඩවි නිර්මාණය කිරීම</li>
+        <li>චිත්‍රපට බැලීම</li>
+    </ul>
+
+    <a href="https://www.google.com" target="_blank">Google වෙත යන්න</a>
+
+</body>
+</html>
